@@ -2,7 +2,7 @@
 
 This is my new project.
 
-author: Alice
+author: Alice/sirisha
 
 Below is the main function of the project: 
 
@@ -10,5 +10,6 @@ Below is the main function of the project:
 def square_root(x):
   return x**0.5
 ```
+This is a new line
 
 
