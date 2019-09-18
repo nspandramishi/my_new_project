@@ -2,13 +2,13 @@
 
 This is my new project.
 
-author:
+author: Alice
 
 Below is the main function of the project: 
 
 ```python
-def foo(x):
-  #TODO
+def square_root(x):
+  return x**0.5
 ```
 
 
